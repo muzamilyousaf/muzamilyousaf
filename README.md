@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Muzamil Yousaf 👋
 
-<!--
-**muzamilyousaf/muzamilyousaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B2B Outreach & Email Marketing Specialist | Lead Generation | Business Development**
 
-Here are some ideas to get you started:
+I help businesses build their pipeline through targeted cold email outreach, LinkedIn campaigns, and strategic lead generation. Currently working as a Business Development Executive at **Buildberg**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I do
+- Cold email campaigns (Apollo, Instantly, Foxreach)
+- LinkedIn & Upwork outreach for client acquisition
+- Lead generation & data scraping
+- CRM management (Salesforce, Clay)
+- Email deliverability & inbox placement optimization
+
+### Tools I use
+`Apollo` `Instantly` `Clay` `Salesforce` `Foxreach` `LinkedIn Sales Nav` `Hunter.io` `Upwork`
+
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzamilyousaf)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/muzamilyousaf_3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://muzamil-yousafportfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muzamialiali1234@gmail.com)
